@@ -25,8 +25,7 @@ Final Year Project. A procedurally generated planet with optimisation. Created i
 ### Sphere Generation
 
 ### Early Chunked LOD
+
 https://github.com/JFeria02/FinalYearProject/assets/78926685/3e007184-87d5-4597-86b2-950ae65f3ba4
-
-
 
 

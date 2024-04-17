@@ -22,10 +22,17 @@ Final Year Project. A procedurally generated planet with optimisation. Created i
 ### 3D Simplex Noise Slice
 <img src="https://github.com/JFeria02/FinalYearProject/assets/78926685/3e5b7777-9824-4488-b7c9-ed5072cc7e08" width="500" height="500">
 
-### Sphere Generation
+### Sphere Generation Test (Single Mesh)
+https://drive.google.com/file/d/1CBGzQnDOydDUTxVj7ZDztQmGzpvf3gjT/view?usp=drive_link
 
-### Early Chunked LOD
+### Early Chunked LOD Test
+https://drive.google.com/file/d/1ORMaal4270COOlXxBwEDn2xnGxhaIruK/view?usp=drive_link
 
-https://github.com/JFeria02/FinalYearProject/assets/78926685/3e007184-87d5-4597-86b2-950ae65f3ba4
+### Crack Removal Test
+https://drive.google.com/file/d/1X_0J7aTyQdD6c4a9doxo5IqYr9uRswCD/view?usp=drive_link
 
+### Crack Fix Demo
+https://drive.google.com/file/d/1zvKWluv1xxaIY7P7MAB9XcfJGN4SidLi/view?usp=drive_link
 
+### Noise Demo
+https://drive.google.com/file/d/1743nNNiwctYy4a6NqdyR4aegKi5kTkRK/view?usp=drive_link
